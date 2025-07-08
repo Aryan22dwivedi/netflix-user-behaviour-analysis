@@ -83,7 +83,7 @@ Actionable insights for content teams:
 ## 📂 Files Included
 
 - `netflix_titles_dataset.csv` — The dataset used
-- `Netflix_Analysis.pbix` — Power BI Dashboard 
+- `Netflix_dashboard.pbix` — Power BI Dashboard 
 - screenshots of the dashboard 
 
 ---
