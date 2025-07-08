@@ -1,0 +1,1001 @@
+user_id,show_id,title,genre,duration_minutes,watch_date,watch_time_minutes,rating,is_binge_watch
+user_4,103,Hemlock Grove,Thriller,92,2025-02-27,22,1,True
+user_19,154,Manifest,Drama,53,2025-02-25,19,5,True
+user_18,125,House of Cards,Fantasy,137,2025-02-26,119,5,False
+user_1,197,Squid Game,Documentary,117,2025-03-13,24,2,False
+user_4,111,Narcos,Comedy,121,2025-03-30,82,3,True
+user_15,168,Sex Education,Documentary,50,2025-05-22,23,5,False
+user_19,124,Hemlock Grove,Comedy,41,2025-02-28,23,1,True
+user_4,148,The Haunting of Hill House,Horror,123,2025-02-11,52,3,True
+user_9,189,The Sandman,Comedy,73,2025-05-17,36,2,False
+user_13,134,Bridgerton,Fantasy,86,2025-03-25,12,2,True
+user_11,151,Bridgerton,Comedy,84,2025-05-26,45,2,False
+user_13,182,Cobra Kai,Action,97,2025-02-05,36,5,False
+user_19,154,Ratched,Documentary,122,2025-02-26,22,5,False
+user_3,196,Atypical,Comedy,69,2025-02-10,59,5,True
+user_13,148,Cobra Kai,Horror,165,2025-03-06,146,1,True
+user_18,196,The Crown,Sci-Fi,58,2025-03-17,32,2,False
+user_1,192,Outer Banks,Thriller,158,2025-02-15,134,1,False
+user_17,177,Breaking Bad,Action,125,2025-02-11,74,5,True
+user_20,141,Cobra Kai,Drama,58,2025-04-03,58,3,True
+user_2,130,All of Us Are Dead,Comedy,51,2025-05-05,9,5,True
+user_5,184,Locke & Key,Fantasy,72,2025-03-09,72,5,False
+user_7,169,The OA,Romance,109,2025-04-13,90,3,False
+user_17,157,Breaking Bad,Romance,87,2025-01-17,48,1,True
+user_19,128,Sex Education,Comedy,45,2025-02-28,9,1,False
+user_3,165,The Society,Thriller,154,2025-02-24,143,2,False
+user_8,200,The Umbrella Academy,Documentary,78,2025-01-25,17,4,False
+user_14,152,Outer Banks,Drama,55,2025-01-16,30,3,True
+user_8,124,All of Us Are Dead,Fantasy,144,2025-02-05,113,2,False
+user_15,131,Emily in Paris,Horror,170,2025-01-26,17,5,True
+user_3,196,My Name,Action,134,2025-05-05,128,2,False
+user_2,121,Wednesday,Drama,129,2025-03-09,123,4,False
+user_14,189,The Midnight Club,Fantasy,154,2025-02-09,53,3,True
+user_2,174,Sweet Tooth,Fantasy,45,2025-03-22,8,1,False
+user_17,167,Lucifer,Drama,160,2025-01-21,52,1,True
+user_8,151,House of Cards,Mystery,93,2025-05-29,81,1,True
+user_14,184,Crash Landing on You,Mystery,163,2025-03-22,71,2,False
+user_8,133,All of Us Are Dead,Action,106,2025-04-28,45,1,True
+user_15,179,The Crown,Comedy,48,2025-05-18,18,5,False
+user_5,144,The Order,Romance,124,2025-03-14,25,4,False
+user_20,183,Ozark,Drama,171,2025-03-18,31,2,False
+user_4,113,Sex Education,Fantasy,69,2025-03-11,41,5,True
+user_11,126,The Queen's Gambit,Thriller,159,2025-05-06,69,1,True
+user_14,135,Hemlock Grove,Drama,115,2025-02-03,86,3,True
+user_15,170,Mindhunter,Documentary,173,2025-01-03,33,1,True
+user_18,104,Money Heist,Mystery,171,2025-02-07,115,2,True
+user_10,146,Emily in Paris,Sci-Fi,83,2025-03-05,18,3,False
+user_20,195,13 Reasons Why,Romance,71,2025-02-15,57,1,True
+user_11,200,Alice in Borderland,Romance,98,2025-02-10,94,1,False
+user_2,160,The Queen's Gambit,Romance,147,2025-03-31,83,2,True
+user_1,184,The Lincoln Lawyer,Documentary,114,2025-03-13,13,3,False
+user_17,151,Breaking Bad,Fantasy,114,2025-01-08,19,3,True
+user_19,133,You,Comedy,141,2025-03-30,85,4,True
+user_13,173,Sweet Tooth,Thriller,41,2025-04-22,5,5,True
+user_12,155,Crash Landing on You,Sci-Fi,110,2025-02-01,97,3,False
+user_14,141,Ozark,Thriller,171,2025-02-02,54,4,False
+user_6,178,All of Us Are Dead,Thriller,133,2025-05-21,5,3,False
+user_7,155,Narcos,Mystery,112,2025-04-30,61,4,True
+user_17,160,Crash Landing on You,Action,51,2025-03-14,37,5,False
+user_3,196,Russian Doll,Thriller,87,2025-02-20,23,1,True
+user_8,160,13 Reasons Why,Comedy,146,2025-04-17,54,4,False
+user_13,131,BoJack Horseman,Drama,57,2025-04-19,19,2,False
+user_2,171,Ratched,Comedy,146,2025-02-04,123,5,False
+user_15,178,Alice in Borderland,Fantasy,139,2025-05-21,119,2,False
+user_15,133,Atypical,Romance,100,2025-05-14,67,2,False
+user_15,109,Money Heist,Thriller,90,2025-03-11,47,3,True
+user_5,119,Breaking Bad,Documentary,69,2025-02-24,13,4,False
+user_11,169,The Witcher,Documentary,45,2025-02-22,31,4,True
+user_19,148,The Midnight Club,Drama,120,2025-03-18,101,4,False
+user_18,195,Money Heist,Fantasy,86,2025-05-05,33,3,False
+user_16,103,Manifest,Sci-Fi,133,2025-02-12,124,2,True
+user_13,175,Mindhunter,Drama,51,2025-04-20,13,4,True
+user_2,133,The Lincoln Lawyer,Sci-Fi,84,2025-04-27,46,3,False
+user_9,196,All of Us Are Dead,Thriller,50,2025-05-01,6,5,True
+user_12,128,Dead to Me,Comedy,40,2025-01-08,20,2,True
+user_20,119,Dark,Action,151,2025-01-30,149,2,False
+user_9,198,Ratched,Action,59,2025-02-11,24,1,True
+user_10,173,13 Reasons Why,Documentary,131,2025-02-20,14,5,True
+user_4,189,Shadow and Bone,Thriller,60,2025-05-25,55,1,False
+user_18,154,Kingdom,Sci-Fi,47,2025-05-10,46,3,True
+user_14,162,House of Cards,Documentary,122,2025-04-28,95,2,False
+user_6,193,Narcos,Thriller,167,2025-05-04,124,4,False
+user_11,131,13 Reasons Why,Thriller,145,2025-03-04,123,5,False
+user_11,103,The Sandman,Sci-Fi,76,2025-05-05,32,3,False
+user_11,135,Atypical,Thriller,172,2025-01-03,137,2,True
+user_8,192,Sex Education,Horror,172,2025-03-03,126,4,False
+user_1,111,Lucifer,Romance,133,2025-03-04,83,5,False
+user_16,170,Hellbound,Sci-Fi,138,2025-05-21,89,3,False
+user_9,139,Mindhunter,Romance,60,2025-02-19,25,1,True
+user_7,127,Crash Landing on You,Horror,100,2025-05-31,72,5,False
+user_4,124,Cobra Kai,Romance,122,2025-02-15,43,1,True
+user_9,105,The Lincoln Lawyer,Fantasy,104,2025-02-02,86,4,True
+user_1,173,Emily in Paris,Horror,152,2025-04-23,92,2,True
+user_9,161,Hellbound,Comedy,132,2025-05-06,23,5,True
+user_5,119,The End of the F***ing World,Thriller,51,2025-03-05,12,5,False
+user_20,176,Manifest,Romance,163,2025-04-08,120,4,False
+user_19,154,House of Cards,Mystery,45,2025-01-26,18,2,False
+user_3,120,Hellbound,Action,171,2025-01-20,45,1,False
+user_15,188,Stranger Things,Horror,104,2025-01-09,34,3,False
+user_15,109,Emily in Paris,Romance,97,2025-05-31,89,2,False
+user_4,169,Ozark,Action,98,2025-02-06,14,1,True
+user_10,176,The Queen's Gambit,Mystery,103,2025-04-23,20,4,False
+user_13,134,Cobra Kai,Fantasy,156,2025-04-23,25,5,True
+user_14,194,Stranger Things,Mystery,94,2025-01-07,16,2,True
+user_9,173,All of Us Are Dead,Action,150,2025-05-13,118,3,True
+user_19,155,Narcos,Horror,53,2025-05-01,27,4,False
+user_11,185,Cobra Kai,Action,114,2025-04-16,93,4,False
+user_13,197,Bridgerton,Drama,146,2025-01-23,85,3,False
+user_4,198,BoJack Horseman,Fantasy,30,2025-05-19,19,4,True
+user_7,166,Narcos,Mystery,157,2025-04-24,18,2,False
+user_18,116,Russian Doll,Horror,154,2025-02-01,12,5,True
+user_6,139,Russian Doll,Drama,171,2025-04-15,28,2,True
+user_15,115,The Society,Action,157,2025-03-16,135,3,False
+user_16,160,Black Mirror,Horror,171,2025-02-07,103,2,True
+user_3,135,The Midnight Club,Documentary,117,2025-05-10,39,1,False
+user_10,175,Hemlock Grove,Horror,68,2025-04-25,66,3,False
+user_18,197,The End of the F***ing World,Documentary,146,2025-03-24,53,2,False
+user_8,199,Sweet Tooth,Drama,111,2025-05-02,95,4,False
+user_5,163,Ozark,Action,158,2025-03-26,30,4,True
+user_17,158,The Queen's Gambit,Action,134,2025-02-09,24,4,False
+user_11,179,Narcos,Documentary,50,2025-03-26,48,5,False
+user_11,180,The Umbrella Academy,Horror,168,2025-01-10,163,1,True
+user_10,129,Dead to Me,Comedy,141,2025-01-26,30,4,True
+user_10,103,The Society,Sci-Fi,44,2025-03-17,27,3,False
+user_5,131,Kingdom,Documentary,174,2025-02-16,48,2,True
+user_20,148,The Sandman,Romance,157,2025-05-30,41,2,False
+user_9,158,Cobra Kai,Drama,149,2025-03-15,144,2,True
+user_15,144,The Order,Thriller,138,2025-03-06,121,3,True
+user_13,161,Russian Doll,Romance,127,2025-05-27,50,5,False
+user_10,102,All of Us Are Dead,Documentary,100,2025-01-03,77,1,False
+user_10,199,Atypical,Mystery,120,2025-02-26,86,2,False
+user_5,180,Outer Banks,Drama,109,2025-04-23,9,5,False
+user_5,111,Wednesday,Sci-Fi,136,2025-02-14,56,2,False
+user_17,164,Russian Doll,Action,95,2025-05-04,42,3,True
+user_15,109,Stranger Things,Romance,131,2025-05-23,51,1,False
+user_1,133,Russian Doll,Comedy,146,2025-04-05,72,5,False
+user_12,113,The Order,Romance,150,2025-01-07,148,3,True
+user_3,181,Crash Landing on You,Thriller,134,2025-01-30,40,1,True
+user_10,163,13 Reasons Why,Comedy,90,2025-05-18,22,4,False
+user_12,185,The Crown,Fantasy,137,2025-05-31,44,4,True
+user_16,178,Stranger Things,Thriller,38,2025-04-05,18,4,False
+user_8,146,Black Mirror,Sci-Fi,169,2025-04-02,20,4,False
+user_7,115,The Lincoln Lawyer,Comedy,84,2025-01-06,11,3,True
+user_5,200,13 Reasons Why,Romance,47,2025-05-22,18,5,True
+user_8,142,Hemlock Grove,Action,30,2025-03-12,9,2,False
+user_6,114,Wednesday,Drama,63,2025-01-04,27,2,False
+user_1,122,The Queen's Gambit,Drama,62,2025-04-18,38,1,True
+user_16,157,House of Cards,Sci-Fi,161,2025-01-28,120,5,True
+user_20,105,House of Cards,Fantasy,107,2025-04-28,87,1,True
+user_16,151,The Lincoln Lawyer,Comedy,155,2025-04-24,23,1,False
+user_20,118,The Midnight Club,Action,100,2025-05-30,75,3,False
+user_20,167,Peaky Blinders,Horror,159,2025-04-21,30,1,True
+user_14,157,"Love, Death & Robots",Documentary,116,2025-04-27,56,4,True
+user_11,154,Hemlock Grove,Thriller,125,2025-02-09,92,4,True
+user_3,110,My Name,Documentary,54,2025-04-06,13,5,True
+user_19,171,"Love, Death & Robots",Sci-Fi,61,2025-04-16,27,4,True
+user_10,176,Money Heist,Sci-Fi,56,2025-05-28,37,2,True
+user_16,128,Locke & Key,Sci-Fi,172,2025-04-05,34,3,True
+user_14,171,The Order,Mystery,172,2025-01-07,160,3,True
+user_6,134,The Sandman,Thriller,116,2025-03-31,5,2,True
+user_19,184,Hemlock Grove,Comedy,66,2025-01-08,10,5,True
+user_13,153,Hellbound,Sci-Fi,70,2025-04-05,44,3,True
+user_2,119,House of Cards,Mystery,42,2025-01-21,22,4,False
+user_16,177,Squid Game,Documentary,99,2025-02-25,70,1,False
+user_14,114,Manifest,Mystery,154,2025-05-15,83,1,True
+user_13,176,Ratched,Drama,82,2025-03-19,32,2,False
+user_10,141,Peaky Blinders,Drama,157,2025-04-21,49,2,False
+user_18,190,"Love, Death & Robots",Fantasy,173,2025-04-01,23,4,True
+user_14,102,Ozark,Comedy,110,2025-05-28,59,5,False
+user_14,137,Outer Banks,Documentary,35,2025-03-25,10,5,False
+user_12,111,Sweet Tooth,Comedy,92,2025-04-22,80,4,True
+user_13,139,Breaking Bad,Sci-Fi,86,2025-03-27,26,1,True
+user_17,165,The Midnight Club,Sci-Fi,119,2025-02-07,35,1,True
+user_9,125,Hellbound,Mystery,69,2025-01-20,27,4,False
+user_19,197,The Witcher,Horror,174,2025-03-24,165,3,True
+user_15,108,Sweet Tooth,Horror,107,2025-03-12,80,1,False
+user_17,109,Sweet Tooth,Horror,145,2025-01-10,19,3,False
+user_3,182,All of Us Are Dead,Mystery,159,2025-04-09,123,5,True
+user_15,173,All of Us Are Dead,Romance,112,2025-05-02,69,2,True
+user_15,113,You,Comedy,159,2025-02-14,15,2,False
+user_15,167,Locke & Key,Mystery,70,2025-04-04,52,3,False
+user_14,199,Bridgerton,Mystery,43,2025-03-27,9,3,True
+user_18,186,Sweet Tooth,Thriller,94,2025-02-08,47,1,True
+user_12,139,Emily in Paris,Documentary,63,2025-01-22,24,5,False
+user_11,116,Hemlock Grove,Fantasy,53,2025-04-19,37,3,True
+user_12,139,The Society,Romance,117,2025-05-05,29,2,True
+user_5,109,Stranger Things,Comedy,159,2025-05-19,139,1,False
+user_20,116,Wednesday,Documentary,69,2025-02-11,28,5,True
+user_15,105,Peaky Blinders,Sci-Fi,90,2025-04-24,83,3,False
+user_8,168,The End of the F***ing World,Thriller,150,2025-02-19,99,5,False
+user_15,198,The Crown,Documentary,158,2025-05-16,112,2,True
+user_20,117,Hemlock Grove,Drama,153,2025-04-06,146,1,True
+user_10,110,The Witcher,Action,99,2025-04-26,70,2,False
+user_3,128,Narcos,Sci-Fi,36,2025-04-17,8,4,False
+user_8,149,Wednesday,Sci-Fi,87,2025-01-08,45,1,False
+user_5,117,The Queen's Gambit,Thriller,150,2025-02-05,125,4,True
+user_3,102,The Order,Romance,68,2025-05-21,59,1,False
+user_8,138,The Society,Drama,91,2025-04-18,86,5,False
+user_3,114,The Midnight Club,Mystery,167,2025-01-05,166,5,True
+user_5,137,All of Us Are Dead,Drama,120,2025-03-03,78,4,True
+user_3,167,Cobra Kai,Comedy,164,2025-05-20,134,5,True
+user_13,160,House of Cards,Documentary,125,2025-03-06,100,1,False
+user_3,144,"Love, Death & Robots",Comedy,178,2025-03-27,39,1,False
+user_18,143,"Love, Death & Robots",Action,148,2025-05-03,51,2,True
+user_15,104,Cobra Kai,Romance,41,2025-02-21,7,3,False
+user_17,150,The End of the F***ing World,Horror,94,2025-01-10,87,2,False
+user_12,199,My Name,Sci-Fi,99,2025-02-01,52,4,False
+user_15,149,My Name,Action,157,2025-05-08,99,5,False
+user_3,193,The Umbrella Academy,Comedy,140,2025-02-16,80,3,True
+user_3,141,Hemlock Grove,Thriller,108,2025-04-25,82,4,True
+user_15,144,Breaking Bad,Drama,120,2025-04-22,40,1,True
+user_13,146,The Crown,Action,37,2025-02-06,33,1,True
+user_3,130,My Name,Sci-Fi,122,2025-04-09,77,1,True
+user_15,147,The Order,Horror,49,2025-05-27,13,5,False
+user_13,140,My Name,Thriller,93,2025-01-30,8,2,False
+user_17,149,BoJack Horseman,Comedy,97,2025-03-08,95,4,True
+user_20,136,My Name,Horror,81,2025-02-01,22,1,False
+user_6,191,Breaking Bad,Comedy,111,2025-03-30,95,1,False
+user_10,120,Breaking Bad,Action,122,2025-05-11,33,1,True
+user_5,130,Sweet Tooth,Drama,122,2025-05-22,78,3,False
+user_18,116,The Sandman,Comedy,46,2025-03-21,30,4,False
+user_14,173,The Order,Action,111,2025-01-19,62,4,False
+user_5,199,"Love, Death & Robots",Mystery,76,2025-02-03,60,5,True
+user_4,166,The Society,Thriller,72,2025-02-11,46,2,False
+user_17,136,Stranger Things,Thriller,80,2025-05-22,40,2,False
+user_20,168,The Haunting of Hill House,Fantasy,73,2025-05-29,24,2,False
+user_19,105,Breaking Bad,Comedy,41,2025-05-28,21,2,False
+user_20,181,All of Us Are Dead,Horror,169,2025-03-16,169,3,False
+user_8,187,The Lincoln Lawyer,Thriller,146,2025-01-19,20,2,False
+user_14,161,"Love, Death & Robots",Romance,117,2025-02-06,45,3,False
+user_13,116,The Witcher,Sci-Fi,161,2025-05-24,32,3,True
+user_15,115,"Love, Death & Robots",Horror,93,2025-02-06,17,1,False
+user_13,178,Money Heist,Romance,70,2025-03-25,45,2,True
+user_16,165,Bridgerton,Horror,108,2025-05-08,7,1,False
+user_17,158,BoJack Horseman,Romance,179,2025-04-01,17,1,False
+user_16,176,The OA,Horror,103,2025-05-18,6,1,False
+user_5,133,Cobra Kai,Sci-Fi,133,2025-04-04,16,4,True
+user_19,171,Black Mirror,Sci-Fi,171,2025-03-15,23,4,False
+user_18,135,Dead to Me,Mystery,60,2025-02-02,11,4,False
+user_11,171,The Witcher,Action,80,2025-05-11,56,5,True
+user_2,104,Outer Banks,Sci-Fi,151,2025-05-13,121,2,True
+user_11,178,Bridgerton,Action,130,2025-03-18,80,3,False
+user_19,138,Kingdom,Drama,124,2025-03-26,91,1,False
+user_19,139,Lucifer,Drama,151,2025-03-09,63,1,False
+user_6,167,The Society,Mystery,127,2025-02-07,110,2,True
+user_19,189,The Queen's Gambit,Romance,34,2025-04-23,15,4,True
+user_14,188,The Witcher,Documentary,158,2025-05-01,20,2,True
+user_18,141,Lucifer,Horror,164,2025-04-07,85,2,False
+user_18,143,Manifest,Sci-Fi,97,2025-05-04,29,2,False
+user_18,138,The Crown,Thriller,103,2025-02-23,93,4,False
+user_16,144,You,Thriller,103,2025-02-01,78,5,False
+user_13,144,Ratched,Action,104,2025-01-11,41,1,False
+user_15,183,The Haunting of Hill House,Horror,84,2025-02-21,73,3,False
+user_5,113,The Lincoln Lawyer,Mystery,91,2025-03-04,11,5,True
+user_8,106,The Crown,Documentary,114,2025-05-01,17,2,True
+user_18,120,The Haunting of Hill House,Horror,152,2025-02-21,78,3,False
+user_2,198,You,Mystery,89,2025-05-17,9,2,False
+user_6,104,"Love, Death & Robots",Horror,77,2025-03-16,9,1,False
+user_19,177,Ozark,Sci-Fi,102,2025-04-27,87,5,False
+user_5,164,The End of the F***ing World,Thriller,79,2025-01-29,47,2,False
+user_9,191,The Society,Drama,116,2025-03-17,77,2,True
+user_20,181,Atypical,Documentary,161,2025-03-25,27,4,True
+user_6,117,Hemlock Grove,Sci-Fi,93,2025-01-02,38,4,True
+user_15,196,Mindhunter,Sci-Fi,107,2025-05-30,97,5,True
+user_9,183,Atypical,Romance,45,2025-01-31,34,3,True
+user_13,187,Stranger Things,Thriller,60,2025-03-17,28,5,True
+user_8,117,Bridgerton,Action,146,2025-04-06,111,5,False
+user_18,185,Sweet Tooth,Romance,50,2025-05-15,33,5,False
+user_3,172,Emily in Paris,Drama,170,2025-05-10,56,5,True
+user_6,141,Alice in Borderland,Horror,59,2025-02-22,50,5,False
+user_3,165,The Sandman,Drama,146,2025-02-03,136,4,False
+user_19,107,Shadow and Bone,Horror,108,2025-01-06,55,3,True
+user_7,174,Locke & Key,Drama,138,2025-03-30,21,5,True
+user_3,160,The Midnight Club,Thriller,134,2025-02-16,39,4,False
+user_13,157,Russian Doll,Documentary,50,2025-05-19,13,3,True
+user_6,168,Ozark,Fantasy,62,2025-02-27,58,1,True
+user_10,159,Lucifer,Fantasy,138,2025-05-17,102,2,True
+user_15,144,The Lincoln Lawyer,Thriller,78,2025-01-29,9,4,True
+user_8,126,Kingdom,Comedy,38,2025-04-25,8,2,True
+user_13,156,My Name,Fantasy,85,2025-01-15,22,5,False
+user_8,193,Breaking Bad,Sci-Fi,177,2025-03-24,65,3,True
+user_17,128,Stranger Things,Thriller,100,2025-01-16,76,5,True
+user_14,171,Kingdom,Drama,118,2025-04-08,105,5,False
+user_14,152,The Umbrella Academy,Thriller,126,2025-02-17,101,5,False
+user_8,128,Black Mirror,Action,148,2025-01-15,148,4,False
+user_18,167,The Order,Documentary,92,2025-03-07,31,3,True
+user_15,147,"Love, Death & Robots",Fantasy,78,2025-01-14,39,4,True
+user_3,124,The Queen's Gambit,Mystery,173,2025-02-25,127,2,False
+user_10,101,The End of the F***ing World,Romance,60,2025-05-03,20,5,True
+user_13,130,Russian Doll,Sci-Fi,102,2025-04-08,64,5,False
+user_10,133,The Haunting of Hill House,Fantasy,157,2025-04-30,30,4,False
+user_7,147,Kingdom,Documentary,41,2025-05-25,19,2,True
+user_9,170,Lucifer,Mystery,136,2025-03-17,44,2,False
+user_8,148,The Crown,Romance,157,2025-05-21,91,3,False
+user_16,158,You,Sci-Fi,73,2025-02-05,67,2,True
+user_17,104,Cobra Kai,Drama,31,2025-04-16,9,2,True
+user_5,101,The Society,Fantasy,146,2025-04-06,20,5,False
+user_16,102,Cobra Kai,Fantasy,171,2025-04-16,8,1,False
+user_18,136,Bridgerton,Fantasy,140,2025-02-15,32,1,True
+user_8,124,My Name,Fantasy,94,2025-04-01,39,4,True
+user_12,151,Narcos,Mystery,92,2025-02-27,43,1,True
+user_3,151,Ratched,Documentary,171,2025-05-02,19,1,True
+user_3,163,The OA,Sci-Fi,174,2025-01-25,140,1,True
+user_7,188,Atypical,Horror,99,2025-01-12,14,3,True
+user_6,140,You,Romance,180,2025-02-06,106,1,False
+user_6,172,Russian Doll,Mystery,129,2025-05-19,47,4,True
+user_3,164,Kingdom,Sci-Fi,43,2025-01-26,32,2,True
+user_11,177,Emily in Paris,Mystery,131,2025-03-25,8,3,False
+user_16,129,Russian Doll,Fantasy,126,2025-04-21,28,5,False
+user_3,198,Emily in Paris,Thriller,93,2025-01-19,15,3,True
+user_13,191,Manifest,Action,129,2025-03-23,51,1,True
+user_1,139,Mindhunter,Sci-Fi,99,2025-01-27,21,1,True
+user_14,157,Vincenzo,Fantasy,161,2025-04-15,31,1,True
+user_12,170,Mindhunter,Mystery,113,2025-04-09,6,3,False
+user_13,199,Breaking Bad,Fantasy,92,2025-05-27,71,2,False
+user_6,117,Russian Doll,Thriller,98,2025-05-07,23,1,True
+user_14,135,Lucifer,Thriller,153,2025-01-20,97,3,True
+user_16,176,The End of the F***ing World,Romance,147,2025-01-28,39,3,True
+user_13,142,Ratched,Documentary,114,2025-04-23,47,4,True
+user_10,141,The Society,Romance,152,2025-03-22,50,4,False
+user_10,194,Money Heist,Horror,177,2025-03-04,88,4,False
+user_13,146,The Society,Mystery,81,2025-05-20,28,5,True
+user_15,190,13 Reasons Why,Horror,104,2025-01-18,57,4,True
+user_10,130,Sex Education,Action,138,2025-04-07,23,4,False
+user_19,151,Kingdom,Fantasy,137,2025-05-20,14,3,True
+user_4,198,You,Sci-Fi,72,2025-01-12,56,3,False
+user_4,101,Narcos,Thriller,86,2025-05-11,71,5,True
+user_15,147,Ozark,Horror,180,2025-05-09,43,3,True
+user_16,113,The Crown,Documentary,51,2025-01-30,51,2,False
+user_10,143,BoJack Horseman,Romance,163,2025-05-04,94,4,True
+user_15,192,The Society,Horror,111,2025-01-18,43,1,True
+user_1,143,Kingdom,Comedy,72,2025-03-04,71,2,True
+user_11,171,The Umbrella Academy,Horror,89,2025-04-14,85,2,True
+user_14,150,Outer Banks,Mystery,80,2025-04-26,80,4,False
+user_1,190,Outer Banks,Romance,101,2025-01-17,78,1,True
+user_12,141,Vincenzo,Horror,59,2025-03-09,47,4,False
+user_20,149,Locke & Key,Documentary,180,2025-01-30,94,3,False
+user_20,122,The OA,Thriller,51,2025-02-04,25,1,True
+user_10,114,The OA,Sci-Fi,66,2025-05-11,29,4,True
+user_19,149,Hellbound,Action,154,2025-05-18,49,5,True
+user_16,136,Narcos,Action,110,2025-04-26,84,1,False
+user_1,162,Wednesday,Romance,128,2025-05-24,69,4,False
+user_16,153,Wednesday,Horror,155,2025-02-12,26,5,True
+user_8,137,Dead to Me,Thriller,87,2025-05-18,41,2,False
+user_19,195,Sex Education,Horror,170,2025-05-11,33,5,True
+user_9,199,Locke & Key,Sci-Fi,168,2025-01-11,117,5,True
+user_14,113,The Society,Romance,106,2025-01-09,62,3,False
+user_3,156,Sweet Tooth,Romance,83,2025-05-31,49,5,False
+user_6,178,Crash Landing on You,Romance,82,2025-01-16,77,3,False
+user_20,168,The Society,Sci-Fi,104,2025-03-16,78,3,True
+user_5,196,Black Mirror,Drama,100,2025-02-02,94,2,True
+user_5,191,Kingdom,Romance,130,2025-05-06,23,5,False
+user_14,148,The Haunting of Hill House,Comedy,53,2025-04-14,37,3,False
+user_15,162,Money Heist,Mystery,30,2025-01-24,28,4,False
+user_3,168,Russian Doll,Romance,139,2025-02-24,131,3,False
+user_10,143,My Name,Mystery,63,2025-05-25,59,4,False
+user_2,105,BoJack Horseman,Horror,34,2025-02-01,34,2,False
+user_15,100,All of Us Are Dead,Romance,63,2025-03-19,15,3,True
+user_12,132,Sweet Tooth,Sci-Fi,72,2025-01-14,55,3,True
+user_14,183,Locke & Key,Comedy,30,2025-02-24,20,1,True
+user_19,128,Manifest,Horror,32,2025-01-03,27,3,True
+user_14,188,Vincenzo,Horror,48,2025-02-28,29,1,True
+user_4,140,The Witcher,Thriller,65,2025-04-08,54,2,True
+user_3,167,Russian Doll,Drama,72,2025-04-23,49,2,True
+user_14,178,The End of the F***ing World,Horror,85,2025-01-23,17,2,True
+user_19,193,The Order,Sci-Fi,139,2025-03-22,40,2,False
+user_3,131,Cobra Kai,Mystery,102,2025-01-07,89,3,True
+user_17,177,Manifest,Romance,130,2025-03-17,87,1,True
+user_16,149,My Name,Romance,157,2025-01-19,140,1,False
+user_11,116,Vincenzo,Mystery,137,2025-04-04,49,4,True
+user_1,175,Shadow and Bone,Drama,97,2025-02-25,10,1,False
+user_17,136,Russian Doll,Fantasy,136,2025-04-19,107,1,True
+user_9,110,The Society,Comedy,160,2025-02-22,44,5,False
+user_13,175,Sex Education,Comedy,109,2025-04-22,98,2,True
+user_8,111,"Love, Death & Robots",Comedy,146,2025-01-15,84,2,True
+user_1,190,The Sandman,Drama,71,2025-05-08,49,5,False
+user_6,147,The Society,Thriller,60,2025-01-08,26,4,False
+user_17,108,The Crown,Mystery,49,2025-05-08,34,5,False
+user_2,163,Mindhunter,Action,124,2025-02-10,37,1,True
+user_8,194,Emily in Paris,Drama,41,2025-01-04,20,1,False
+user_12,149,The Midnight Club,Action,39,2025-05-22,31,2,False
+user_8,153,Shadow and Bone,Sci-Fi,99,2025-01-20,78,3,True
+user_17,186,The Crown,Action,87,2025-05-13,10,4,True
+user_15,136,Atypical,Thriller,113,2025-01-23,75,4,True
+user_12,125,Vincenzo,Mystery,107,2025-03-04,64,3,False
+user_7,193,Cobra Kai,Romance,68,2025-01-02,57,1,True
+user_18,144,Alice in Borderland,Drama,115,2025-01-01,102,4,False
+user_4,126,"Love, Death & Robots",Romance,137,2025-05-06,20,2,False
+user_3,105,Crash Landing on You,Fantasy,135,2025-04-06,122,1,True
+user_17,117,Outer Banks,Documentary,49,2025-05-26,8,4,True
+user_8,137,The Sandman,Sci-Fi,130,2025-03-25,45,4,False
+user_8,109,Breaking Bad,Action,179,2025-01-28,44,1,True
+user_15,159,Wednesday,Documentary,60,2025-05-18,27,2,False
+user_10,159,The Midnight Club,Comedy,53,2025-02-10,48,3,True
+user_7,141,Breaking Bad,Comedy,93,2025-04-02,55,5,True
+user_10,133,The Lincoln Lawyer,Drama,133,2025-04-26,68,1,False
+user_4,117,BoJack Horseman,Drama,45,2025-02-26,13,2,False
+user_12,187,Atypical,Comedy,179,2025-05-31,71,1,True
+user_3,125,The Society,Horror,62,2025-01-24,62,3,True
+user_2,159,The Queen's Gambit,Action,176,2025-04-21,106,4,True
+user_13,187,Squid Game,Action,120,2025-02-24,28,3,False
+user_15,119,Kingdom,Mystery,92,2025-03-17,68,4,False
+user_2,111,Hemlock Grove,Documentary,65,2025-04-18,17,5,True
+user_18,102,Manifest,Sci-Fi,152,2025-05-20,129,3,False
+user_13,134,The Midnight Club,Drama,111,2025-02-26,8,3,True
+user_16,167,The Lincoln Lawyer,Mystery,89,2025-02-10,17,2,True
+user_9,168,Russian Doll,Drama,86,2025-05-28,54,3,True
+user_6,130,Alice in Borderland,Sci-Fi,121,2025-01-08,95,3,True
+user_19,124,Emily in Paris,Fantasy,109,2025-02-14,67,1,True
+user_2,129,Cobra Kai,Romance,35,2025-05-15,20,1,False
+user_20,125,Peaky Blinders,Sci-Fi,75,2025-03-24,12,1,True
+user_19,190,Ozark,Comedy,164,2025-04-04,23,3,False
+user_19,112,Ratched,Thriller,112,2025-02-04,25,4,False
+user_11,122,Hellbound,Fantasy,121,2025-02-27,90,5,True
+user_13,139,You,Thriller,62,2025-02-15,51,1,False
+user_19,104,Stranger Things,Mystery,111,2025-02-26,86,5,True
+user_16,118,Narcos,Comedy,90,2025-03-30,45,2,True
+user_11,157,Vincenzo,Thriller,83,2025-03-05,13,3,False
+user_4,192,Lucifer,Drama,128,2025-04-23,98,4,True
+user_14,163,13 Reasons Why,Sci-Fi,169,2025-04-07,30,4,True
+user_6,157,The Umbrella Academy,Drama,105,2025-01-06,45,3,True
+user_3,143,The Sandman,Documentary,71,2025-01-20,16,3,False
+user_1,155,House of Cards,Action,141,2025-02-10,18,1,False
+user_7,124,Sweet Tooth,Fantasy,168,2025-03-09,77,3,True
+user_4,106,Dead to Me,Mystery,170,2025-05-06,44,1,False
+user_1,154,Breaking Bad,Thriller,152,2025-02-21,29,1,True
+user_6,181,"Love, Death & Robots",Comedy,151,2025-01-30,83,4,False
+user_16,184,The Sandman,Comedy,169,2025-04-10,52,3,False
+user_12,123,Outer Banks,Drama,97,2025-04-23,64,3,True
+user_9,172,Emily in Paris,Action,54,2025-01-22,47,3,False
+user_19,129,Outer Banks,Drama,129,2025-05-14,58,5,False
+user_19,130,Outer Banks,Thriller,50,2025-04-12,50,1,True
+user_4,196,My Name,Action,72,2025-02-24,29,2,True
+user_14,110,The Midnight Club,Documentary,81,2025-02-07,81,3,False
+user_3,111,The Witcher,Fantasy,131,2025-05-22,46,3,False
+user_1,200,House of Cards,Mystery,180,2025-05-14,112,1,False
+user_5,118,Squid Game,Mystery,179,2025-01-26,32,5,True
+user_10,168,The Order,Documentary,97,2025-04-09,88,4,False
+user_2,122,The Society,Documentary,66,2025-04-13,7,4,False
+user_8,106,Narcos,Horror,98,2025-04-06,7,3,False
+user_10,135,All of Us Are Dead,Comedy,88,2025-02-04,43,4,False
+user_9,193,All of Us Are Dead,Mystery,52,2025-02-18,33,2,False
+user_16,197,Black Mirror,Sci-Fi,44,2025-05-12,15,1,False
+user_17,151,Hemlock Grove,Fantasy,175,2025-01-08,49,2,True
+user_2,131,Money Heist,Horror,42,2025-04-03,17,3,False
+user_15,164,The Witcher,Comedy,37,2025-03-03,28,4,False
+user_6,160,Hellbound,Fantasy,119,2025-03-30,25,3,True
+user_10,103,"Love, Death & Robots",Drama,71,2025-05-27,32,2,True
+user_7,134,Locke & Key,Documentary,161,2025-01-06,7,4,True
+user_6,176,Crash Landing on You,Romance,94,2025-03-20,87,3,False
+user_13,144,Russian Doll,Thriller,85,2025-04-30,43,5,False
+user_19,113,Atypical,Fantasy,125,2025-05-24,87,5,False
+user_10,187,Lucifer,Horror,46,2025-03-28,22,3,False
+user_9,183,Peaky Blinders,Thriller,78,2025-02-08,71,2,True
+user_20,151,Alice in Borderland,Sci-Fi,65,2025-01-07,46,4,False
+user_9,153,The Midnight Club,Documentary,39,2025-05-30,17,3,True
+user_18,181,Locke & Key,Sci-Fi,159,2025-03-18,48,5,True
+user_10,112,The Haunting of Hill House,Action,96,2025-05-24,28,3,True
+user_8,145,BoJack Horseman,Thriller,137,2025-03-26,100,3,False
+user_15,115,The Haunting of Hill House,Drama,179,2025-05-29,163,1,False
+user_7,164,Sweet Tooth,Documentary,165,2025-03-18,110,1,True
+user_5,125,The Lincoln Lawyer,Documentary,175,2025-04-28,41,3,True
+user_3,162,The Order,Action,110,2025-01-15,5,4,False
+user_7,197,The Lincoln Lawyer,Action,177,2025-02-10,130,1,True
+user_20,155,The Sandman,Documentary,133,2025-04-20,127,4,True
+user_2,168,The Queen's Gambit,Sci-Fi,33,2025-03-24,29,5,True
+user_1,186,The Umbrella Academy,Romance,87,2025-03-30,44,2,True
+user_13,164,Stranger Things,Thriller,72,2025-01-17,10,3,False
+user_15,193,Stranger Things,Mystery,164,2025-03-28,116,2,False
+user_16,145,Crash Landing on You,Romance,72,2025-04-14,7,2,True
+user_5,127,Dead to Me,Drama,180,2025-05-10,48,1,False
+user_2,148,"Love, Death & Robots",Thriller,166,2025-01-13,157,1,True
+user_1,106,Kingdom,Comedy,136,2025-04-24,102,1,False
+user_16,189,Emily in Paris,Romance,32,2025-03-19,18,1,False
+user_20,177,Atypical,Action,137,2025-01-27,135,5,True
+user_10,114,Hellbound,Horror,80,2025-02-21,38,5,True
+user_12,190,Stranger Things,Thriller,71,2025-01-11,68,2,False
+user_11,130,Lucifer,Drama,52,2025-01-29,41,4,True
+user_3,199,Hemlock Grove,Comedy,55,2025-03-07,46,2,False
+user_10,133,Black Mirror,Drama,55,2025-02-14,7,3,False
+user_11,154,Outer Banks,Comedy,54,2025-01-12,5,2,True
+user_11,145,Manifest,Mystery,98,2025-01-24,52,3,True
+user_4,151,The Crown,Horror,99,2025-04-09,93,4,False
+user_6,114,The Umbrella Academy,Drama,70,2025-01-27,58,5,False
+user_19,186,The Lincoln Lawyer,Action,127,2025-04-02,83,1,True
+user_16,162,Lucifer,Documentary,142,2025-01-12,21,3,False
+user_1,190,The Order,Fantasy,177,2025-05-25,62,3,True
+user_14,184,Outer Banks,Romance,153,2025-03-30,103,2,True
+user_1,182,Manifest,Fantasy,150,2025-05-07,47,1,False
+user_11,130,13 Reasons Why,Thriller,42,2025-05-10,19,5,False
+user_13,130,Sweet Tooth,Horror,143,2025-05-27,119,1,False
+user_15,140,Black Mirror,Horror,34,2025-01-27,17,4,True
+user_18,170,Crash Landing on You,Comedy,107,2025-05-11,76,2,False
+user_11,146,My Name,Romance,146,2025-03-26,126,3,False
+user_4,112,Locke & Key,Romance,30,2025-03-29,16,3,False
+user_4,105,Vincenzo,Horror,65,2025-04-15,11,3,True
+user_7,115,Black Mirror,Romance,147,2025-02-18,91,1,False
+user_2,181,The Umbrella Academy,Mystery,61,2025-04-26,34,5,True
+user_16,100,Lucifer,Drama,171,2025-04-21,154,4,True
+user_19,122,The Lincoln Lawyer,Action,56,2025-04-10,47,5,False
+user_17,149,The Lincoln Lawyer,Mystery,93,2025-03-12,55,3,False
+user_15,117,Kingdom,Documentary,161,2025-03-18,145,3,True
+user_7,126,Sex Education,Thriller,118,2025-02-03,95,2,False
+user_4,197,Hemlock Grove,Fantasy,152,2025-05-30,151,4,False
+user_14,101,Ratched,Comedy,36,2025-04-08,14,1,True
+user_7,134,The Society,Action,103,2025-03-06,23,1,False
+user_7,196,Locke & Key,Drama,121,2025-04-26,18,5,True
+user_18,149,The Order,Fantasy,103,2025-01-13,53,4,False
+user_11,170,The Sandman,Drama,94,2025-02-21,84,4,True
+user_12,196,Dark,Fantasy,80,2025-02-19,42,4,True
+user_3,123,Black Mirror,Fantasy,60,2025-04-07,7,4,False
+user_18,133,Ratched,Action,179,2025-03-07,6,3,False
+user_5,105,Dead to Me,Sci-Fi,43,2025-03-19,36,5,False
+user_3,200,Shadow and Bone,Sci-Fi,164,2025-02-26,52,5,True
+user_17,120,Dark,Fantasy,167,2025-04-14,28,3,True
+user_7,184,The Haunting of Hill House,Sci-Fi,122,2025-03-17,32,5,False
+user_18,196,"Love, Death & Robots",Drama,59,2025-03-30,33,2,True
+user_2,187,Stranger Things,Documentary,59,2025-04-09,21,5,False
+user_1,166,Black Mirror,Sci-Fi,161,2025-05-11,119,4,True
+user_10,183,Hellbound,Sci-Fi,161,2025-01-22,29,2,True
+user_3,126,Money Heist,Romance,138,2025-01-27,57,5,False
+user_3,195,Lucifer,Action,36,2025-04-28,26,1,True
+user_3,106,Cobra Kai,Thriller,172,2025-01-19,152,2,False
+user_14,149,Lucifer,Documentary,140,2025-03-22,9,4,True
+user_18,100,Breaking Bad,Mystery,46,2025-05-30,7,1,False
+user_17,113,My Name,Thriller,52,2025-03-14,33,4,False
+user_1,160,Sweet Tooth,Fantasy,86,2025-02-04,55,5,False
+user_5,138,"Love, Death & Robots",Sci-Fi,32,2025-05-22,32,5,True
+user_4,105,Wednesday,Mystery,130,2025-05-18,75,1,False
+user_7,195,You,Sci-Fi,84,2025-04-16,70,2,True
+user_6,128,Cobra Kai,Thriller,79,2025-01-30,28,5,True
+user_18,159,The Umbrella Academy,Fantasy,48,2025-03-16,47,1,False
+user_4,125,Alice in Borderland,Mystery,154,2025-03-26,96,2,True
+user_4,136,Russian Doll,Comedy,79,2025-03-23,67,4,False
+user_20,184,The Society,Mystery,69,2025-05-25,51,3,False
+user_6,100,The Society,Romance,86,2025-04-22,40,3,True
+user_11,161,Squid Game,Horror,121,2025-03-20,67,5,True
+user_6,182,The Order,Comedy,101,2025-02-05,73,2,False
+user_3,193,The Umbrella Academy,Drama,159,2025-01-08,153,5,False
+user_19,127,The Crown,Fantasy,96,2025-05-20,74,4,True
+user_12,150,Stranger Things,Mystery,104,2025-02-04,64,5,True
+user_13,146,The Society,Drama,91,2025-02-12,70,2,False
+user_6,122,Atypical,Mystery,67,2025-05-04,65,3,True
+user_8,197,Dark,Romance,46,2025-03-09,28,2,True
+user_7,166,Squid Game,Documentary,150,2025-04-27,16,1,False
+user_4,190,All of Us Are Dead,Thriller,97,2025-05-29,74,5,True
+user_13,183,Manifest,Sci-Fi,180,2025-01-20,137,3,False
+user_8,166,Peaky Blinders,Sci-Fi,118,2025-05-05,106,4,True
+user_17,117,The Umbrella Academy,Action,88,2025-01-20,70,3,True
+user_5,123,Shadow and Bone,Sci-Fi,60,2025-02-28,31,3,True
+user_16,186,Vincenzo,Horror,83,2025-02-11,57,1,True
+user_2,116,Breaking Bad,Mystery,71,2025-02-04,70,1,True
+user_2,121,Alice in Borderland,Action,162,2025-04-14,158,5,True
+user_10,110,Russian Doll,Horror,150,2025-05-04,48,2,False
+user_20,118,The Sandman,Action,160,2025-03-09,47,3,False
+user_20,175,BoJack Horseman,Romance,126,2025-04-09,21,1,True
+user_7,166,The Lincoln Lawyer,Documentary,68,2025-01-25,27,4,True
+user_18,164,Narcos,Comedy,53,2025-05-04,47,2,True
+user_14,166,Manifest,Sci-Fi,41,2025-05-16,32,2,False
+user_13,144,The Lincoln Lawyer,Mystery,55,2025-04-19,13,3,False
+user_8,110,Dark,Mystery,169,2025-04-15,70,2,True
+user_1,173,The Lincoln Lawyer,Comedy,163,2025-01-02,101,2,False
+user_14,146,Dead to Me,Action,139,2025-05-30,69,3,False
+user_19,146,The End of the F***ing World,Thriller,131,2025-02-22,57,5,False
+user_6,147,Ozark,Fantasy,153,2025-03-06,83,5,False
+user_13,194,Money Heist,Comedy,88,2025-04-25,25,1,True
+user_17,151,Alice in Borderland,Fantasy,43,2025-02-11,29,1,True
+user_5,160,Hellbound,Documentary,52,2025-01-17,21,2,False
+user_3,177,Bridgerton,Documentary,132,2025-05-14,78,5,True
+user_6,181,Manifest,Horror,32,2025-02-21,32,5,False
+user_7,104,Ratched,Fantasy,162,2025-03-01,162,2,True
+user_12,130,Emily in Paris,Drama,70,2025-01-23,40,4,False
+user_13,151,Sex Education,Romance,162,2025-01-04,22,1,False
+user_18,174,Ratched,Sci-Fi,100,2025-02-27,82,2,False
+user_13,173,Dark,Thriller,74,2025-04-15,69,1,True
+user_17,137,The Order,Comedy,161,2025-03-07,142,5,False
+user_15,148,The Queen's Gambit,Horror,92,2025-03-28,63,4,True
+user_16,114,Cobra Kai,Comedy,127,2025-02-26,91,2,False
+user_14,145,Russian Doll,Fantasy,32,2025-03-09,12,3,True
+user_13,186,My Name,Sci-Fi,49,2025-05-22,16,4,False
+user_12,127,Russian Doll,Thriller,76,2025-02-18,68,2,True
+user_8,133,Kingdom,Romance,81,2025-03-05,50,2,True
+user_4,110,Ratched,Horror,31,2025-05-19,6,4,False
+user_20,140,Mindhunter,Mystery,100,2025-05-06,28,5,False
+user_13,128,My Name,Mystery,62,2025-01-14,38,4,False
+user_18,104,Hemlock Grove,Sci-Fi,130,2025-02-14,63,1,False
+user_11,188,"Love, Death & Robots",Drama,83,2025-04-08,79,1,False
+user_12,178,Cobra Kai,Action,170,2025-03-09,65,3,False
+user_20,143,The Sandman,Action,157,2025-04-19,58,4,False
+user_12,151,"Love, Death & Robots",Horror,76,2025-05-27,21,5,True
+user_4,192,The Order,Romance,172,2025-04-21,102,2,True
+user_5,160,The Umbrella Academy,Action,137,2025-05-08,39,5,False
+user_16,138,My Name,Fantasy,175,2025-01-13,106,1,True
+user_2,127,Peaky Blinders,Horror,54,2025-04-26,52,3,False
+user_12,146,The Sandman,Fantasy,95,2025-03-30,7,4,True
+user_12,186,Emily in Paris,Romance,177,2025-05-28,171,5,True
+user_10,145,Russian Doll,Fantasy,154,2025-04-25,25,4,False
+user_15,180,The End of the F***ing World,Action,116,2025-04-18,85,5,False
+user_3,110,Locke & Key,Sci-Fi,88,2025-03-22,45,3,False
+user_20,182,BoJack Horseman,Thriller,143,2025-04-03,138,4,False
+user_6,123,My Name,Action,90,2025-03-06,15,2,True
+user_13,113,You,Comedy,151,2025-05-21,18,1,False
+user_17,197,Kingdom,Comedy,97,2025-02-09,15,4,False
+user_8,131,Emily in Paris,Thriller,143,2025-02-02,38,5,True
+user_1,104,Outer Banks,Sci-Fi,113,2025-05-02,64,5,False
+user_18,156,Peaky Blinders,Fantasy,75,2025-04-27,60,5,False
+user_12,161,The Haunting of Hill House,Romance,52,2025-04-24,24,3,False
+user_9,119,My Name,Drama,30,2025-05-14,29,2,False
+user_10,160,Ratched,Drama,155,2025-05-03,81,1,False
+user_10,176,The Umbrella Academy,Drama,170,2025-04-06,53,4,False
+user_13,131,The End of the F***ing World,Documentary,126,2025-02-26,38,1,False
+user_8,166,The Haunting of Hill House,Mystery,99,2025-03-14,88,5,False
+user_14,124,The Umbrella Academy,Action,64,2025-03-16,12,4,False
+user_9,189,The Queen's Gambit,Horror,78,2025-03-24,7,2,True
+user_18,102,Ozark,Comedy,102,2025-03-10,21,4,True
+user_8,111,Sweet Tooth,Drama,156,2025-02-25,92,4,False
+user_16,147,13 Reasons Why,Drama,114,2025-01-21,112,2,True
+user_9,199,Shadow and Bone,Comedy,169,2025-05-01,51,2,False
+user_13,101,The Haunting of Hill House,Romance,128,2025-04-24,36,1,True
+user_15,194,Crash Landing on You,Comedy,163,2025-02-23,126,4,False
+user_11,120,Lucifer,Drama,170,2025-05-14,36,3,False
+user_10,125,Black Mirror,Drama,85,2025-01-29,35,4,False
+user_1,121,Russian Doll,Mystery,60,2025-04-12,55,2,True
+user_2,174,The Umbrella Academy,Horror,69,2025-04-06,16,2,True
+user_16,111,Emily in Paris,Mystery,116,2025-01-16,12,3,True
+user_18,113,Sex Education,Horror,89,2025-03-23,76,3,False
+user_7,102,Ratched,Documentary,121,2025-02-04,37,1,False
+user_15,171,The Sandman,Fantasy,155,2025-02-18,150,2,False
+user_11,193,Lucifer,Thriller,171,2025-02-11,22,5,True
+user_15,137,Hemlock Grove,Fantasy,123,2025-04-27,5,5,False
+user_6,102,Hellbound,Sci-Fi,91,2025-03-24,13,5,False
+user_7,167,The Midnight Club,Horror,171,2025-02-09,161,3,False
+user_14,182,Hemlock Grove,Comedy,54,2025-05-14,47,1,True
+user_5,122,13 Reasons Why,Romance,57,2025-05-05,17,1,True
+user_19,182,Shadow and Bone,Horror,164,2025-03-07,17,3,True
+user_20,191,Black Mirror,Drama,83,2025-05-06,15,4,True
+user_12,171,Russian Doll,Documentary,124,2025-01-15,110,5,False
+user_17,105,The Sandman,Comedy,107,2025-01-20,32,5,True
+user_4,192,Manifest,Fantasy,128,2025-02-18,29,5,True
+user_19,180,Squid Game,Fantasy,172,2025-04-17,32,5,False
+user_15,189,Bridgerton,Documentary,56,2025-02-12,55,2,False
+user_17,143,Mindhunter,Action,166,2025-04-24,95,3,False
+user_12,152,Crash Landing on You,Documentary,112,2025-03-03,77,5,True
+user_13,198,The Umbrella Academy,Thriller,122,2025-04-26,62,4,True
+user_2,136,The Queen's Gambit,Drama,162,2025-02-04,82,1,False
+user_8,127,Dark,Drama,100,2025-05-22,70,5,True
+user_4,104,All of Us Are Dead,Sci-Fi,69,2025-02-05,38,3,True
+user_8,132,BoJack Horseman,Comedy,176,2025-04-13,150,2,True
+user_11,161,The OA,Horror,177,2025-01-25,157,3,True
+user_19,148,Ozark,Drama,115,2025-03-31,109,4,False
+user_4,198,Vincenzo,Mystery,32,2025-04-08,6,3,True
+user_11,169,Peaky Blinders,Action,113,2025-05-09,94,2,True
+user_2,186,Atypical,Documentary,144,2025-05-28,134,1,True
+user_14,137,The Midnight Club,Action,63,2025-03-28,10,4,True
+user_18,151,The Queen's Gambit,Comedy,132,2025-05-09,116,2,True
+user_16,171,Alice in Borderland,Horror,131,2025-05-27,30,5,True
+user_8,109,Wednesday,Documentary,112,2025-05-28,16,1,False
+user_14,146,Breaking Bad,Romance,112,2025-03-30,81,1,False
+user_6,144,Black Mirror,Horror,67,2025-04-23,7,2,True
+user_12,119,Manifest,Comedy,58,2025-01-14,20,5,True
+user_10,101,The Order,Comedy,108,2025-04-26,65,1,False
+user_7,194,The OA,Romance,82,2025-05-20,71,3,False
+user_20,193,The Haunting of Hill House,Drama,126,2025-05-30,120,5,True
+user_9,121,Narcos,Thriller,81,2025-03-11,11,4,True
+user_3,149,Kingdom,Thriller,122,2025-01-28,7,3,False
+user_8,148,Hellbound,Comedy,110,2025-05-05,81,5,True
+user_6,125,Stranger Things,Horror,173,2025-01-06,15,2,False
+user_11,162,Outer Banks,Action,34,2025-03-30,26,3,False
+user_10,130,BoJack Horseman,Thriller,45,2025-03-07,29,1,False
+user_8,119,Ozark,Documentary,65,2025-01-23,51,4,True
+user_14,130,Emily in Paris,Action,139,2025-03-21,89,4,True
+user_7,183,Hellbound,Mystery,168,2025-02-21,40,3,True
+user_14,198,Money Heist,Mystery,70,2025-03-23,13,5,True
+user_6,140,Ratched,Drama,111,2025-04-16,57,3,False
+user_9,119,The Witcher,Romance,57,2025-02-03,16,1,False
+user_20,172,Shadow and Bone,Romance,89,2025-03-01,8,3,True
+user_16,117,The Haunting of Hill House,Mystery,150,2025-04-06,52,4,False
+user_16,117,All of Us Are Dead,Romance,87,2025-01-09,57,1,False
+user_14,128,Hemlock Grove,Romance,82,2025-01-17,27,4,False
+user_11,158,Wednesday,Documentary,133,2025-01-11,102,3,False
+user_20,195,Dark,Mystery,167,2025-05-15,14,5,True
+user_15,158,The Lincoln Lawyer,Romance,162,2025-05-18,106,1,False
+user_17,197,The Haunting of Hill House,Drama,78,2025-03-16,61,4,False
+user_10,159,Hemlock Grove,Documentary,105,2025-01-14,93,5,True
+user_15,182,The Crown,Comedy,158,2025-01-29,51,5,True
+user_13,152,Hellbound,Horror,36,2025-02-15,34,5,True
+user_15,111,Peaky Blinders,Sci-Fi,71,2025-02-01,16,1,False
+user_12,110,Alice in Borderland,Documentary,160,2025-02-10,101,5,False
+user_2,198,Sweet Tooth,Sci-Fi,174,2025-02-08,46,2,True
+user_2,153,You,Thriller,144,2025-03-15,51,1,True
+user_7,100,Sweet Tooth,Thriller,33,2025-04-28,20,4,True
+user_20,163,Narcos,Romance,180,2025-05-02,121,4,False
+user_3,176,The End of the F***ing World,Drama,92,2025-05-21,40,5,True
+user_2,123,Hemlock Grove,Drama,119,2025-01-10,23,1,False
+user_11,111,Stranger Things,Comedy,136,2025-02-15,46,3,True
+user_15,195,The Crown,Sci-Fi,39,2025-01-24,24,3,False
+user_13,108,Peaky Blinders,Documentary,170,2025-01-17,79,4,True
+user_4,188,Sweet Tooth,Sci-Fi,164,2025-04-16,139,2,True
+user_20,107,My Name,Mystery,165,2025-01-23,128,5,False
+user_14,177,Emily in Paris,Thriller,164,2025-05-28,164,3,True
+user_20,172,The Society,Fantasy,157,2025-05-07,51,5,True
+user_10,124,The OA,Comedy,36,2025-04-30,12,2,False
+user_14,105,The Witcher,Sci-Fi,173,2025-02-24,7,2,False
+user_9,108,All of Us Are Dead,Thriller,159,2025-05-21,87,1,True
+user_11,143,Hellbound,Mystery,37,2025-02-14,17,3,False
+user_16,160,"Love, Death & Robots",Action,153,2025-02-09,122,5,False
+user_15,200,Hellbound,Drama,163,2025-03-18,149,3,True
+user_7,173,Crash Landing on You,Sci-Fi,120,2025-01-17,24,3,True
+user_11,148,Sex Education,Fantasy,72,2025-05-27,54,2,True
+user_10,190,Lucifer,Drama,99,2025-04-16,16,4,True
+user_12,157,Sex Education,Romance,164,2025-03-19,49,1,False
+user_2,199,Bridgerton,Comedy,143,2025-05-10,11,4,True
+user_7,143,The Order,Fantasy,109,2025-03-25,23,1,True
+user_7,192,Ratched,Horror,129,2025-05-14,19,1,False
+user_2,187,Russian Doll,Comedy,115,2025-04-30,10,1,False
+user_1,173,The Haunting of Hill House,Thriller,83,2025-03-24,30,2,False
+user_9,168,You,Horror,60,2025-03-11,14,2,False
+user_4,101,Mindhunter,Fantasy,161,2025-01-27,57,5,False
+user_18,140,Crash Landing on You,Action,102,2025-05-27,36,2,True
+user_10,178,The End of the F***ing World,Fantasy,143,2025-01-13,38,1,False
+user_2,113,My Name,Drama,52,2025-04-20,30,2,False
+user_20,145,13 Reasons Why,Sci-Fi,80,2025-05-17,15,4,True
+user_3,189,House of Cards,Comedy,146,2025-03-21,124,4,True
+user_8,118,Shadow and Bone,Thriller,123,2025-04-11,28,3,False
+user_15,162,Stranger Things,Comedy,151,2025-01-29,94,4,False
+user_6,136,The Crown,Sci-Fi,177,2025-02-02,135,1,False
+user_4,141,Lucifer,Comedy,107,2025-05-17,64,4,False
+user_8,179,The Sandman,Fantasy,70,2025-05-04,54,1,False
+user_7,188,Bridgerton,Documentary,141,2025-05-26,92,5,True
+user_6,184,The Umbrella Academy,Comedy,176,2025-05-05,34,5,False
+user_11,171,Dark,Horror,75,2025-03-20,56,1,True
+user_20,198,"Love, Death & Robots",Sci-Fi,156,2025-01-16,28,2,True
+user_19,196,Lucifer,Drama,67,2025-02-08,33,5,False
+user_13,178,Narcos,Horror,80,2025-02-22,45,3,False
+user_14,191,The OA,Comedy,179,2025-01-03,161,5,False
+user_5,137,The Umbrella Academy,Sci-Fi,170,2025-01-14,5,5,False
+user_4,136,Cobra Kai,Romance,140,2025-04-11,86,4,False
+user_13,155,Sweet Tooth,Romance,74,2025-05-02,22,2,False
+user_12,153,Narcos,Thriller,62,2025-02-04,5,1,True
+user_5,192,Sweet Tooth,Documentary,64,2025-01-22,13,4,False
+user_20,154,Ratched,Action,146,2025-05-11,113,5,False
+user_13,145,The Lincoln Lawyer,Action,138,2025-01-02,132,2,False
+user_14,169,Narcos,Sci-Fi,38,2025-01-10,35,3,True
+user_19,161,Alice in Borderland,Comedy,66,2025-05-15,59,3,False
+user_17,110,Sweet Tooth,Mystery,52,2025-03-04,35,1,False
+user_20,106,Sweet Tooth,Fantasy,32,2025-05-01,19,5,False
+user_19,193,The Order,Documentary,120,2025-03-17,42,2,True
+user_20,195,The End of the F***ing World,Mystery,96,2025-01-16,85,4,True
+user_19,106,Ratched,Thriller,36,2025-03-15,36,1,True
+user_17,109,Wednesday,Thriller,63,2025-03-13,22,3,True
+user_4,177,BoJack Horseman,Mystery,68,2025-04-25,52,2,False
+user_8,162,The Queen's Gambit,Fantasy,38,2025-03-29,10,2,True
+user_16,196,The Society,Documentary,90,2025-04-23,86,2,True
+user_19,193,You,Drama,97,2025-01-30,11,2,False
+user_13,160,Peaky Blinders,Horror,166,2025-03-01,102,4,False
+user_9,118,Sweet Tooth,Documentary,33,2025-03-15,30,4,False
+user_11,167,Kingdom,Drama,54,2025-05-17,45,3,False
+user_20,183,Manifest,Sci-Fi,99,2025-03-10,17,3,False
+user_15,198,Peaky Blinders,Romance,180,2025-02-19,138,3,True
+user_11,170,Vincenzo,Drama,47,2025-01-04,31,1,True
+user_15,144,Russian Doll,Thriller,94,2025-02-19,9,1,True
+user_2,176,The Witcher,Romance,61,2025-01-31,10,5,True
+user_13,184,Mindhunter,Mystery,77,2025-01-29,28,3,False
+user_15,184,Black Mirror,Horror,100,2025-04-20,93,3,False
+user_6,199,Crash Landing on You,Thriller,45,2025-04-08,29,3,True
+user_9,133,Emily in Paris,Horror,47,2025-05-06,17,5,False
+user_6,182,Breaking Bad,Comedy,66,2025-05-19,54,4,True
+user_20,182,Dark,Horror,96,2025-01-27,9,1,True
+user_19,193,Locke & Key,Horror,34,2025-05-08,9,1,True
+user_13,134,Alice in Borderland,Sci-Fi,130,2025-05-28,5,5,False
+user_16,155,Hellbound,Comedy,168,2025-02-27,5,4,False
+user_4,172,Black Mirror,Sci-Fi,115,2025-03-19,56,1,True
+user_12,168,The Society,Comedy,147,2025-03-16,56,2,True
+user_13,184,Stranger Things,Thriller,129,2025-01-28,85,3,False
+user_3,180,Mindhunter,Romance,65,2025-01-10,17,1,True
+user_16,149,"Love, Death & Robots",Fantasy,108,2025-05-08,73,4,True
+user_2,143,Crash Landing on You,Sci-Fi,40,2025-04-14,12,2,False
+user_18,119,My Name,Mystery,89,2025-01-19,9,2,False
+user_1,160,Bridgerton,Drama,92,2025-02-03,6,2,True
+user_10,112,Sex Education,Mystery,73,2025-01-17,18,1,False
+user_20,178,The Lincoln Lawyer,Comedy,81,2025-04-20,48,4,False
+user_4,187,Emily in Paris,Fantasy,65,2025-03-24,58,2,True
+user_19,122,Outer Banks,Comedy,60,2025-03-12,14,4,True
+user_12,170,Wednesday,Horror,92,2025-05-29,10,2,True
+user_20,148,My Name,Action,34,2025-05-05,7,1,True
+user_6,111,Peaky Blinders,Mystery,102,2025-04-17,93,4,True
+user_7,118,The Society,Thriller,163,2025-04-26,110,2,True
+user_20,188,Dead to Me,Mystery,76,2025-05-08,16,3,False
+user_14,100,The End of the F***ing World,Romance,79,2025-01-31,72,1,False
+user_18,164,Russian Doll,Horror,83,2025-03-12,11,2,True
+user_5,187,Stranger Things,Horror,75,2025-02-10,10,1,False
+user_10,126,Sex Education,Thriller,115,2025-04-27,10,1,True
+user_18,122,Kingdom,Drama,154,2025-05-12,34,1,True
+user_15,175,The Witcher,Sci-Fi,137,2025-02-20,88,2,True
+user_11,129,Sweet Tooth,Romance,135,2025-02-21,101,2,True
+user_16,174,BoJack Horseman,Drama,141,2025-02-07,60,5,False
+user_6,149,Black Mirror,Action,147,2025-02-19,96,3,True
+user_11,116,Shadow and Bone,Mystery,45,2025-03-13,13,1,False
+user_15,153,Black Mirror,Sci-Fi,86,2025-03-17,82,2,True
+user_19,170,The OA,Comedy,135,2025-05-14,130,2,False
+user_15,135,The Crown,Documentary,93,2025-03-05,46,4,True
+user_19,119,The Sandman,Drama,136,2025-01-12,15,4,True
+user_14,167,The Order,Horror,55,2025-04-26,36,2,True
+user_18,196,The Order,Documentary,85,2025-02-03,50,3,True
+user_3,102,Dark,Thriller,71,2025-04-28,8,4,False
+user_5,190,Dark,Action,124,2025-04-29,95,1,True
+user_13,188,The Haunting of Hill House,Fantasy,38,2025-03-17,32,3,True
+user_3,179,BoJack Horseman,Drama,161,2025-04-04,18,1,False
+user_12,159,Sex Education,Drama,123,2025-04-04,27,5,True
+user_18,190,13 Reasons Why,Romance,65,2025-03-27,20,5,True
+user_16,194,The Queen's Gambit,Mystery,83,2025-02-27,46,3,False
+user_17,187,Vincenzo,Thriller,43,2025-01-17,28,3,False
+user_16,164,Stranger Things,Comedy,150,2025-05-17,141,3,False
+user_20,147,Hellbound,Comedy,78,2025-04-28,16,1,False
+user_6,136,Peaky Blinders,Comedy,72,2025-03-12,19,2,False
+user_5,126,Money Heist,Drama,105,2025-04-17,92,5,True
+user_16,144,Stranger Things,Horror,35,2025-03-16,11,1,True
+user_8,166,My Name,Sci-Fi,135,2025-05-29,92,3,False
+user_19,185,Atypical,Fantasy,170,2025-04-24,122,3,True
+user_10,121,"Love, Death & Robots",Romance,153,2025-04-06,78,1,True
+user_12,136,Dead to Me,Action,71,2025-05-18,41,2,True
+user_5,120,Sweet Tooth,Comedy,40,2025-03-23,13,4,False
+user_12,123,Shadow and Bone,Fantasy,38,2025-03-23,27,2,False
+user_15,169,Narcos,Fantasy,107,2025-02-01,8,4,False
+user_5,158,Hemlock Grove,Action,31,2025-05-20,21,3,False
+user_16,137,The Lincoln Lawyer,Mystery,67,2025-05-25,51,4,False
+user_4,193,Dead to Me,Drama,65,2025-05-22,12,3,True
+user_13,179,The Crown,Horror,121,2025-01-24,46,1,True
+user_19,167,Alice in Borderland,Thriller,80,2025-01-06,15,5,False
+user_3,165,The Umbrella Academy,Romance,155,2025-03-23,135,1,False
+user_13,118,Stranger Things,Documentary,124,2025-04-09,52,1,False
+user_12,144,All of Us Are Dead,Horror,173,2025-01-23,60,4,False
+user_15,136,Black Mirror,Documentary,136,2025-02-05,27,2,True
+user_10,160,Locke & Key,Sci-Fi,46,2025-04-07,10,1,False
+user_9,153,Locke & Key,Fantasy,148,2025-05-26,40,2,True
+user_13,137,BoJack Horseman,Horror,40,2025-03-19,24,4,False
+user_8,103,Kingdom,Action,97,2025-03-18,86,4,True
+user_10,153,Crash Landing on You,Horror,92,2025-01-08,20,3,False
+user_3,176,The Sandman,Sci-Fi,178,2025-05-04,149,4,False
+user_16,188,House of Cards,Sci-Fi,161,2025-05-28,9,3,True
+user_19,107,The Order,Sci-Fi,148,2025-02-04,96,2,True
+user_9,146,Sex Education,Sci-Fi,42,2025-03-16,23,5,True
+user_17,124,13 Reasons Why,Action,54,2025-02-12,39,3,False
+user_10,134,Breaking Bad,Sci-Fi,54,2025-05-17,42,3,True
+user_1,117,Bridgerton,Thriller,125,2025-05-05,57,3,True
+user_4,127,Hemlock Grove,Fantasy,86,2025-02-18,76,5,True
+user_14,158,The OA,Comedy,63,2025-01-05,35,3,False
+user_12,117,Dead to Me,Mystery,163,2025-03-29,49,3,True
+user_4,128,The OA,Action,88,2025-03-20,21,2,True
+user_3,154,Alice in Borderland,Comedy,49,2025-01-05,35,4,True
+user_7,113,Dead to Me,Fantasy,45,2025-05-01,12,3,True
+user_3,138,Mindhunter,Drama,54,2025-02-01,43,2,True
+user_6,185,Locke & Key,Drama,53,2025-02-07,52,3,False
+user_12,120,House of Cards,Mystery,91,2025-05-10,77,1,True
+user_19,197,Wednesday,Fantasy,85,2025-02-19,41,2,True
+user_4,127,Dead to Me,Horror,123,2025-05-31,28,4,True
+user_6,145,The OA,Documentary,84,2025-05-12,34,4,True
+user_11,115,The Society,Comedy,163,2025-02-04,131,3,False
+user_18,192,Cobra Kai,Comedy,113,2025-05-07,19,4,False
+user_15,176,House of Cards,Thriller,143,2025-02-27,109,3,False
+user_7,108,Locke & Key,Sci-Fi,75,2025-01-04,67,1,False
+user_15,166,The Midnight Club,Comedy,60,2025-02-06,30,4,True
+user_6,108,BoJack Horseman,Romance,116,2025-02-21,81,4,True
+user_8,154,Black Mirror,Horror,101,2025-05-29,80,3,False
+user_12,160,Manifest,Mystery,133,2025-05-05,76,2,False
+user_4,115,Money Heist,Horror,157,2025-03-01,39,1,True
+user_2,108,Dark,Drama,75,2025-04-08,46,2,False
+user_20,179,BoJack Horseman,Comedy,163,2025-05-07,124,2,False
+user_16,162,Dark,Thriller,168,2025-03-29,143,5,True
+user_2,155,BoJack Horseman,Documentary,145,2025-03-22,101,4,False
+user_2,104,You,Fantasy,107,2025-02-12,67,4,True
+user_10,191,Cobra Kai,Horror,58,2025-05-26,48,4,False
+user_16,171,Black Mirror,Fantasy,44,2025-04-11,21,4,False
+user_20,186,Dead to Me,Thriller,112,2025-01-16,8,5,True
+user_5,146,The Witcher,Mystery,36,2025-03-29,29,1,False
+user_12,145,Breaking Bad,Sci-Fi,44,2025-03-04,20,2,False
+user_19,110,Peaky Blinders,Comedy,108,2025-01-30,48,2,True
+user_18,141,Squid Game,Horror,138,2025-05-26,136,4,False
+user_1,189,Squid Game,Mystery,35,2025-03-23,17,5,False
+user_11,173,Kingdom,Horror,55,2025-02-22,26,4,False
+user_6,178,Bridgerton,Sci-Fi,141,2025-02-21,132,1,True
+user_10,133,Crash Landing on You,Thriller,176,2025-04-13,62,5,True
+user_19,112,The Sandman,Sci-Fi,99,2025-01-18,77,5,False
+user_14,126,Lucifer,Comedy,107,2025-05-10,107,3,False
+user_18,140,Shadow and Bone,Documentary,132,2025-03-06,121,5,True
+user_1,180,Bridgerton,Fantasy,77,2025-05-28,68,2,False
+user_9,181,Lucifer,Mystery,141,2025-05-25,20,5,True
+user_12,159,Narcos,Romance,68,2025-03-18,60,4,False
+user_3,181,Money Heist,Documentary,98,2025-03-15,87,2,False
+user_20,130,Atypical,Romance,59,2025-02-08,17,1,True
+user_10,159,Money Heist,Fantasy,141,2025-04-19,14,2,True
+user_9,117,Emily in Paris,Thriller,101,2025-05-21,27,1,False
+user_1,107,The Crown,Sci-Fi,106,2025-01-17,57,3,True
+user_13,192,"Love, Death & Robots",Romance,58,2025-05-27,52,5,True
+user_17,185,The Crown,Fantasy,94,2025-05-08,16,2,True
+user_11,142,Wednesday,Documentary,90,2025-04-19,32,2,True
+user_6,127,Manifest,Horror,134,2025-03-07,19,4,False
+user_4,140,"Love, Death & Robots",Documentary,151,2025-03-05,76,2,False
+user_16,191,Alice in Borderland,Thriller,35,2025-01-09,31,1,True
+user_9,170,The Haunting of Hill House,Thriller,122,2025-02-01,73,2,False
+user_13,101,Sex Education,Thriller,107,2025-01-24,101,2,False
+user_7,120,Black Mirror,Sci-Fi,134,2025-01-09,75,1,False
+user_16,194,Mindhunter,Sci-Fi,138,2025-01-26,46,3,True
+user_12,153,Sweet Tooth,Fantasy,113,2025-04-27,93,1,True
+user_6,180,The Midnight Club,Action,30,2025-04-13,11,3,False
+user_19,110,Outer Banks,Action,93,2025-05-13,88,2,False
+user_11,157,Sex Education,Action,96,2025-02-14,92,5,False
+user_10,125,The Witcher,Documentary,124,2025-02-16,55,4,True
+user_1,102,Stranger Things,Mystery,88,2025-01-23,64,2,False
+user_6,106,Black Mirror,Mystery,139,2025-03-08,43,1,False
+user_6,172,The End of the F***ing World,Drama,164,2025-04-22,121,4,True
+user_8,191,The Umbrella Academy,Romance,98,2025-03-15,68,4,True
+user_14,126,The Lincoln Lawyer,Romance,102,2025-02-18,58,2,False
+user_5,103,Vincenzo,Thriller,90,2025-04-26,36,3,False
+user_3,101,Dead to Me,Action,112,2025-04-12,92,2,False
+user_14,194,My Name,Thriller,48,2025-01-25,40,1,True
+user_11,130,13 Reasons Why,Sci-Fi,41,2025-01-02,21,5,False
+user_10,150,The Lincoln Lawyer,Sci-Fi,63,2025-05-24,7,5,True
+user_9,121,Hellbound,Horror,116,2025-04-30,21,1,False
+user_17,155,Wednesday,Thriller,59,2025-03-22,7,2,False
+user_9,195,The Queen's Gambit,Documentary,102,2025-03-09,83,3,False
+user_14,121,The Lincoln Lawyer,Horror,68,2025-05-23,61,1,True
+user_5,106,Crash Landing on You,Action,39,2025-05-01,21,2,False
+user_14,114,Outer Banks,Drama,143,2025-04-02,129,4,False
+user_4,192,Crash Landing on You,Comedy,119,2025-01-24,31,3,True
+user_6,195,Locke & Key,Thriller,174,2025-05-30,59,5,True
+user_17,198,Squid Game,Action,136,2025-01-20,68,4,True
+user_11,103,Kingdom,Comedy,130,2025-04-06,80,1,False
+user_5,103,BoJack Horseman,Horror,152,2025-04-27,73,5,True
+user_11,105,The Lincoln Lawyer,Mystery,145,2025-03-25,38,2,True
+user_10,141,Ratched,Comedy,170,2025-04-08,28,4,False
+user_6,130,Stranger Things,Documentary,52,2025-01-06,18,2,False
+user_13,136,Narcos,Action,60,2025-03-18,36,4,False
+user_20,116,My Name,Comedy,124,2025-05-12,30,4,False
+user_13,160,Russian Doll,Mystery,138,2025-01-24,113,3,True
+user_14,180,House of Cards,Comedy,40,2025-05-12,26,4,True
+user_5,163,Crash Landing on You,Fantasy,51,2025-03-16,34,4,True
+user_16,138,Outer Banks,Action,106,2025-03-05,71,4,False
+user_19,106,13 Reasons Why,Comedy,41,2025-05-12,11,5,False
+user_14,112,The Lincoln Lawyer,Mystery,94,2025-04-01,37,5,True
+user_17,102,Sweet Tooth,Horror,75,2025-02-16,55,1,True
+user_14,190,The Sandman,Sci-Fi,180,2025-04-27,176,4,False
+user_11,123,13 Reasons Why,Action,50,2025-03-08,48,1,False
+user_18,102,Cobra Kai,Documentary,59,2025-01-04,15,4,False
+user_13,184,Breaking Bad,Mystery,154,2025-03-19,97,4,False
+user_3,116,Hellbound,Drama,78,2025-01-29,7,2,True
+user_7,161,The Lincoln Lawyer,Action,91,2025-04-22,85,5,True
+user_3,138,13 Reasons Why,Horror,67,2025-05-02,32,1,True
+user_6,119,Ozark,Horror,154,2025-05-01,10,4,True
+user_7,137,The Crown,Documentary,43,2025-03-27,5,1,False
+user_14,163,Crash Landing on You,Mystery,171,2025-03-16,14,4,False
+user_16,165,The Sandman,Mystery,154,2025-03-01,20,5,True
+user_14,173,Vincenzo,Fantasy,46,2025-03-10,46,4,False
+user_4,163,Squid Game,Sci-Fi,144,2025-04-22,10,2,False
+user_7,160,Crash Landing on You,Horror,89,2025-05-10,33,5,False
+user_20,191,Hellbound,Horror,63,2025-03-17,51,4,False
+user_12,160,Mindhunter,Mystery,83,2025-03-14,16,4,True
+user_6,125,The OA,Mystery,155,2025-01-26,111,4,False
+user_8,126,Russian Doll,Drama,34,2025-04-02,33,3,False
+user_6,122,House of Cards,Drama,46,2025-03-28,32,1,True
+user_4,171,Emily in Paris,Horror,96,2025-03-29,50,1,False
+user_5,188,The Order,Mystery,56,2025-01-13,33,4,True
+user_4,200,Sweet Tooth,Mystery,56,2025-05-24,7,5,True
+user_6,180,Dark,Romance,122,2025-02-10,98,3,False
+user_17,163,Hemlock Grove,Comedy,69,2025-04-04,47,2,True
+user_7,156,BoJack Horseman,Drama,92,2025-05-02,48,3,True
+user_3,134,Hemlock Grove,Documentary,122,2025-03-04,24,5,False
+user_8,117,Outer Banks,Documentary,134,2025-04-28,97,1,False
+user_5,198,The Lincoln Lawyer,Fantasy,47,2025-01-22,26,3,False
+user_6,155,All of Us Are Dead,Documentary,39,2025-02-08,8,5,False
+user_14,151,Emily in Paris,Fantasy,107,2025-03-22,49,1,False
+user_17,178,BoJack Horseman,Documentary,144,2025-02-22,144,5,False
+user_12,200,Peaky Blinders,Documentary,80,2025-03-19,15,1,False
+user_13,192,You,Action,163,2025-05-19,77,2,True
+user_17,170,Emily in Paris,Fantasy,117,2025-02-10,7,1,False
+user_8,199,Money Heist,Documentary,159,2025-01-29,20,3,False
+user_17,145,Dark,Drama,61,2025-04-25,24,5,True
+user_15,143,The Crown,Mystery,174,2025-05-17,157,2,False
+user_10,136,The End of the F***ing World,Mystery,65,2025-04-07,38,2,True
+user_11,166,Hellbound,Romance,122,2025-04-27,17,2,False
+user_14,110,Mindhunter,Drama,138,2025-02-03,126,2,False
+user_3,147,Crash Landing on You,Fantasy,133,2025-05-31,106,3,False
+user_14,156,Ratched,Horror,136,2025-02-11,41,5,True
+user_16,191,Crash Landing on You,Action,161,2025-05-16,35,2,False
+user_16,104,Outer Banks,Action,173,2025-04-05,35,5,False
+user_4,115,Dead to Me,Mystery,104,2025-01-11,71,2,True
+user_12,139,Crash Landing on You,Thriller,105,2025-05-05,8,2,True
+user_19,153,Narcos,Thriller,102,2025-02-25,28,4,True
+user_4,170,Atypical,Comedy,41,2025-04-17,35,5,False
+user_19,157,My Name,Documentary,151,2025-02-03,40,5,False
+user_15,185,All of Us Are Dead,Action,113,2025-01-23,107,5,False
+user_13,129,The Haunting of Hill House,Sci-Fi,168,2025-01-12,118,3,True
+user_6,190,The Midnight Club,Mystery,109,2025-05-24,87,1,True
+user_7,179,The End of the F***ing World,Mystery,43,2025-05-26,38,2,False
+user_17,102,The Order,Fantasy,76,2025-01-05,40,2,True
+user_19,156,The Witcher,Fantasy,112,2025-04-13,80,1,False
+user_1,143,The Lincoln Lawyer,Action,136,2025-01-07,86,4,False
+user_3,114,Dead to Me,Fantasy,73,2025-03-15,23,2,False
+user_3,119,Hellbound,Documentary,73,2025-01-16,46,2,True
+user_2,138,The Witcher,Comedy,111,2025-02-06,57,3,False
+user_13,115,The Order,Romance,91,2025-05-31,35,4,False
