@@ -36,6 +36,8 @@ A Netflix behavior including real show names.
 ---
 
 ## 🔍 Key Analysis Performed
+![Power BI Desktop 04_07_2025 20_16_03](https://github.com/user-attachments/assets/8e839222-39ba-49ac-b425-dbb896e9ff61)
+
 
 1. **Top Genres by Watch Time**  
    → Which genres dominate total watch hours
@@ -52,6 +54,7 @@ A Netflix behavior including real show names.
 ---
 
 ## 📈 Visualizations (Power BI)
+![Power BI Desktop 04_07_2025 20_17_36](https://github.com/user-attachments/assets/d354efe5-01fa-4a8d-805c-2ff0f800a7b7)
 
 - **Bar Chart**: Top genres by total watch hours
 - **Column Chart**: Watch hours per user
